@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+
+# Visual Studio cache/index
+*.vsidx
+*.v2
+*.db
+*.cache
+
+# Rider / JetBrains nếu có
+.idea/

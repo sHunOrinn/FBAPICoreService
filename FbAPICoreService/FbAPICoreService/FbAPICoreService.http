@@ -1,0 +1,6 @@
+@FbAPICoreService_HostAddress = http://localhost:5259
+
+GET {{FbAPICoreService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
